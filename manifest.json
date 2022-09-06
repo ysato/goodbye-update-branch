@@ -1,7 +1,7 @@
 {
   "name": "Goodbye \"Update-branch\"",
   "description": "Disable \"Update branch\" button for GitHub",
-  "version": "0.0.0.3",
+  "version": "0.0.0.4",
   "manifest_version": 3,
   "icons": {
     "16": "icons/16.png",
@@ -15,7 +15,7 @@
         "https://*.github.com/*"
       ],
       "css": [
-        "src/inject.css"
+        "style.css"
       ]
     }
   ]
